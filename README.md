@@ -14,3 +14,4 @@
 - 📄 Conoce mis experiencias [https://www.linkedin.com/in/nicosegovia/](https://www.linkedin.com/in/nicosegovia/ )
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
