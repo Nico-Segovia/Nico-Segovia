@@ -7,7 +7,7 @@
 
 - 👯 Busco colaborar en **Proyectos web .NET**
 
-- 💬 Pregúntame sobre **Juegos mágicos**
+- 💬 Pregúntame sobre **Magic Tricks**
 
 - 📫 Cómo contactame **nico.segov@gmail.com**
 
