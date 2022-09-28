@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Nico-Segovia</h1>
+<h1 align="center">Hola 👋, soy Nicolás Segovia</h1>
 <h3 align="center">Un apasionado de la informática de Argentina</h3>
 
 - 🔭 Actualmente estoy trabajando en **Box Custodia de Archivos**
@@ -14,4 +14,6 @@
 - 📄 Conoce mis experiencias [https://www.linkedin.com/in/nicosegovia/](https://www.linkedin.com/in/nicosegovia/ )
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
