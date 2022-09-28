@@ -1,28 +1,30 @@
 <div>
-  <h1 align="center">Hi 👋, I'm Nicolás Segovia</h1>
+  <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="50px" width="50px">, I'm Nicolás Segovia</h1>
   <h3 align="center">.NET Software Developer</h3>
 </div>
 <br>
 
-<div>
+  ### About Me 🚀
 
-  - 🔭 Actualmente estoy trabajando en **Box Custodia de Archivos**
+  🔭 Actualmente estoy trabajando en **Box Custodia de Archivos**
 
-  - 🌱 Actualmente estoy aprendiendo **Java, Python**
+  🌱 Actualmente estoy aprendiendo **Java, Python**
 
-  - 👯 Busco colaborar en **Proyectos web .NET**
+  👯 Busco colaborar en **Proyectos web .NET**
 
-  - 💬 Pregúntame sobre **Magic Tricks**
+  💬 Pregúntame sobre **Magic Tricks**
 
-  - 📫 Cómo contactame **nico.segov@gmail.com**
+  📫 Cómo contactame **nico.segov@gmail.com**
 
-  - 📄 Conoce mis experiencias [https://www.linkedin.com/in/nicosegovia/](https://www.linkedin.com/in/nicosegovia/ )
-</div>
+  📄 Conoce mis experiencias [https://www.linkedin.com/in/nicosegovia/](https://www.linkedin.com/in/nicosegovia/ )
+
+<br>
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?    username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img alt="gif" src="https://cdn.discordapp.com/attachments/862063799292133377/1024762643262754857/1.gif">
 </div>
 
-![1](https://user-images.githubusercontent.com/86338019/192860585-6df81dbf-f095-4a6e-97ac-ed7e033fc35f.gif)
+<br>
+
+[![Nico's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nico-Segovia&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/Nico-Segovia/github-readme-activity-graph)
+ 
