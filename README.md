@@ -8,7 +8,7 @@
 
   🔭 Actualmente estoy trabajando en **Box Custodia de Archivos**
 
-  🌱 Actualmente estoy aprendiendo **Java, Python**
+  🌱 Actualmente estoy aprendiendo **Java, Python y JS** en **UTN San Rafael**
 
   👯 Busco colaborar en **Proyectos web .NET**
 
