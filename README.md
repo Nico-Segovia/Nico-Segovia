@@ -6,9 +6,11 @@
 
   ### About Me 🚀
 
-  🔭 I am currently working on **Box Custodia de Archivos**
+  👨‍💻 I'm currently working on **Box Custodia de Archivos**
 
-  🌱 I am currently learning **Java, Python y JS**, on **UTN San Rafael**
+  🌱 I'm currently learning **Java, Python y JS**, on **UTN San Rafael**
+  
+  🌎 I'm from **Argentina**
 
   👯 Looking to collaborate on **.NET Web Projects**
 
@@ -22,7 +24,6 @@
 
 <br>
 <hr>
-<br>
 
 ### ✨ I have knowledge about:
 
