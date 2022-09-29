@@ -22,8 +22,10 @@
 
 <br>
 <hr>
+<br>
 
-#### ✨ I have knowledge about:
+### ✨ I have knowledge about:
+
 <br>
   
 <details> 
