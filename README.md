@@ -6,14 +6,14 @@
 
   ### About Me 🚀
 
-  🔭 Actualmente estoy trabajando en **Box Custodia de Archivos**
+  🔭 I am currently working on **Box Custodia de Archivos**
 
-  🌱 Actualmente estoy aprendiendo **Java, Python y JS**, en **UTN San Rafael**
+  🌱 I am currently learning **Java, Python y JS**, on **UTN San Rafael**
 
-  👯 Busco colaborar en **Proyectos web .NET**
+  👯 Looking to collaborate on **.NET Web Projects
 
 
-  #### ¿Hablamos?☕️
+  #### Contact ☕️
 
 
 <p align="left">
@@ -23,7 +23,7 @@
 <br>
 <hr>
 
-#### ✨Tengo conocimientos sobre:
+#### ✨I have knowledge about:
 <br>
   
 <details> 
