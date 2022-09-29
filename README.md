@@ -20,6 +20,36 @@
 
 <br>
 
+<img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"
+/>
+
+<br>
+
 <div align="center">
   <img alt="gif" src="https://cdn.discordapp.com/attachments/862063799292133377/1024762643262754857/1.gif">
 </div>
