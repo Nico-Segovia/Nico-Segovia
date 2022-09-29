@@ -12,7 +12,7 @@
   
   🌎 I'm from **Argentina**
 
-  👯 Looking to collaborate on **.NET Web Projects**
+  👯 Im looking forward to collaborate on **.NET Web Projects**
 
 
   #### Contact ☕️
