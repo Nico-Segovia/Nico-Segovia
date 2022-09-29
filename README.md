@@ -10,7 +10,7 @@
 
   🌱 I am currently learning **Java, Python y JS**, on **UTN San Rafael**
 
-  👯 Looking to collaborate on **.NET Web Projects
+  👯 Looking to collaborate on **.NET Web Projects**
 
 
   #### Contact ☕️
@@ -23,7 +23,7 @@
 <br>
 <hr>
 
-#### ✨I have knowledge about:
+#### ✨ I have knowledge about:
 <br>
   
 <details> 
