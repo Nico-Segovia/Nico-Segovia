@@ -17,7 +17,7 @@
 
 
 <p align="left">
-<a href="https://www.facebook.com/nico.segg/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"" alt="https://www.linkedin.com/in/nicosegovia/" height="30" width="40" /></a>  <a href="https://www.linkedin.com/in/nicosegovia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin Nicolás Segovia" height="30" width="40" /></a>    <a href="mailto:nico.segov@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Correo de Nicolás Segovia" height="40" width="40" /></a>
+<a href="https://www.facebook.com/nico.segg/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"" alt="https://www.linkedin.com/in/nicosegovia/" height="30" width="40" /></a>  <a href="https://www.linkedin.com/in/nicosegovia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin Nicolás Segovia" height="30" width="40" /></a>    <a href="mailto:nico.segov@gmail.com" target="blank"> <img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Correo de Nicolás Segovia" height="40" width="40" /></a>
 </p>
 
 <br>
