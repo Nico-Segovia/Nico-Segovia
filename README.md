@@ -73,7 +73,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-orig
 <br>
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nico-Segovia&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nico-Segovia&theme=blueberry_duo&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
 <br>
 <br>
