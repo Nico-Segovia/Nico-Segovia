@@ -36,7 +36,7 @@
 <summary><b>Programming languages</b></summary><br/> 
 <p align="left"> 
 <img height=30 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
 </p>
 </details>
 
@@ -49,16 +49,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 </details>
 
 <details> 
-<summary><b>Game Development</b></summary><br/> 
+<summary><b>Backend Development</b></summary><br/> 
 <p align="left"> 
-<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> 
 </p>
 </details>
 
 <details> 
-<summary><b>Backend Development</b></summary><br/> 
+<summary><b>Game Development</b></summary><br/> 
 <p align="left"> 
-<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> 
+<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
 </p>
 </details>
 
