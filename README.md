@@ -80,5 +80,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-orig
 <br>
 <br>
 
-[![Nico's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nico-Segovia&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/Nico-Segovia/github-readme-activity-graph)
- 
+[![Nico's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nico-Segovia&theme=github)](https://github.com/Nico-Segovia/github-readme-activity-graph)
