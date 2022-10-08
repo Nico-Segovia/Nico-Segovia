@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47F7D9&center=true&width=435&lines=Jr+.NET+Software+Developer;FullStack+web+and+app+developer;1%2B+years+of+coding+experience;University+programing+student;Experienced+in+Developer+Analysts;Always+learning+new+things.." alt="Typing SVG" /></a>
  </p>
 
-  ### About Me 🚀
+  <h2> About Me 🚀</h2>
 
   👨‍💻 I'm currently working on **Box Custodia de Archivos**
 
@@ -14,8 +14,7 @@
 
   👯 I'm looking forward to collaborate on **.NET Web Projects**
 
-
-  #### Contact ☕️
+### Contact ☕️
 
 
 <p align="left">
@@ -25,10 +24,9 @@
 <a href = "mailto:nico.segov@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-<hr>
 <br>
   
-### ✨ I have knowledge about:
+<h2>✨ I have knowledge about:</h2>
 
 <br>
   
@@ -76,10 +74,9 @@ src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" /> <img height=30
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" />
 </p>
 </details>
-<br>
+<br/>
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
+  <summary>💻 GitHub Profile Stats</summary><br/>
     <a href="https://github.com/Nico-Segovia/github-readme-stats"><img alt="Nico's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Nico-Segovia&show_icons=true&include_all_commits=true&count_private=true&theme=xcode&hide_border=true&bg_color=1F222E&title_color=47F7D9&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/Nico-Segovia/github-readme-stats"><img alt="Nico's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-Segovia&langs_count=8&layout=compact&theme=xcode&hide_border=true&bg_color=1F222E&title_color=47F7D9&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
