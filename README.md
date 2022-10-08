@@ -1,5 +1,5 @@
 
-  <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="50px" width="50px">, Welcome to my profile!</h1>
+  <h1 align="center">Hi, Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
  <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47F7D9&center=true&width=435&lines=Jr+.NET+Software+Developer;FullStack+web+and+app+developer;1%2B+years+of+coding+experience;University+programing+student;Experience+as+a+Developer+Analyst;Always+learning+new+things.." alt="Typing SVG" /></a>
  </p>
@@ -81,4 +81,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-or
 </details>
 <br>
 
-[![Nico's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nico-Segovia&theme=xcode&hide_border=true&bg_color=1F222E&title_color=47F7D9)](https://github.com/Nico-Segovia/github-readme-activity-graph)
+[![Nico's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nico-Segovia&theme=xcode&hide_border=true&bg_color=1F222E&title_color=47F7D9&point=d8bc5d&color=444c5c)](https://github.com/Nico-Segovia/github-readme-activity-graph)
