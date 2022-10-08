@@ -1,7 +1,7 @@
 
   <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="50px" width="50px">, I'm Nicolás Segovia</h1>
  <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=ABB2B9&center=true&width=435&lines=Jr+.NET+Software+Developer;University+Programming+Student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47F7D9&center=true&width=435&lines=Jr+.NET+Software+Developer;Full-Stack+web+and+app+developer;1%2B+years+of+coding+experience;University+programing+student;Experienced+in+Developer+Analysts;Always+learning+new+things.." alt="Typing SVG" /></a>
  </p>
 
   ### About Me 🚀
