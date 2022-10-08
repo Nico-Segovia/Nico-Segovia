@@ -76,8 +76,15 @@ src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" /> <img height=30
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" />
 </p>
 </details>
-
 <br>
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/Nico-Segovia/github-readme-stats"><img alt="Nico's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Nico-Segovia&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/Nico-Segovia/github-readme-stats"><img alt="Nico's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-Segovia&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
 <br>
 
 [![Nico's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nico-Segovia&theme=xcode)](https://github.com/Nico-Segovia/github-readme-activity-graph)
