@@ -78,7 +78,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-or
   <a href="https://github.com/Nico-Segovia/github-readme-stats"><img alt="Nico's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-Segovia&langs_count=8&layout=compact&theme=xcode&hide_border=true&bg_color=1F222E&title_color=47F7D9&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <em><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
-</details>
+</details> 
 <br>
 
 [![Nico's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nico-Segovia&theme=xcode&hide_border=true&bg_color=1F222E&title_color=47F7D9&point=d8bc5d&color=444c5c)](https://github.com/Nico-Segovia/github-readme-activity-graph)
