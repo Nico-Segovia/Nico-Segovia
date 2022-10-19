@@ -6,7 +6,7 @@
 
   <h2> About Me 🚀</h2>
 
-  👨‍💻 I'm currently working on <a href="https://www.boxcustodia.com/cms/">**Box Custodia de Archivos**</a>
+  👨‍💻 I'm currently working on <a href="https://www.boxcustodia.com/cms/">**Box - Custodia y Gestión Digital**</a>
 
   🌱 I'm currently learning **Java, Python y JS**, on <a href="http://www.frsr.utn.edu.ar/">**UTN San Rafael**</a>
 
