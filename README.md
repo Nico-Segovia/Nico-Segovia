@@ -1,8 +1,8 @@
 
-  <h1 align="center">Hi, Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
- <p align="center">
-  <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47F7D9&center=true&width=435&lines=Jr+.NET+Software+Developer;FullStack+web+and+app+developer;1%2B+years+of+coding+experience;University+programing+student;Experience+as+a+Developer+Analyst;Always+learning+new+things.." alt="Typing SVG" /></a>
- </p>
+<h1 align="center">Hi, Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<p align="center">
+ <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47F7D9&center=true&width=435&lines=Jr+.NET+Software+Developer;FullStack+web+and+app+developer;1%2B+years+of+coding+experience;University+programing+student;Experience+as+a+Developer+Analyst;Always+learning+new+things.." alt="Typing SVG" /></a>
+</p>
 
   <h2> About Me 🚀</h2>
 
@@ -17,8 +17,8 @@
 <br>
 #### Contact ☕️
 <p align="left">
-<a href="https://www.linkedin.com/in/nicosegovia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.facebook.com/nico.segg/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/nicosegovia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.facebook.com/nico.segg/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 <a href="https://twitter.com/nicosegg" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 <a href = "mailto:nico.segov@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
