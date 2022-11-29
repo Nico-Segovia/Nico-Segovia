@@ -6,9 +6,9 @@
 
   <h2> About Me 🚀</h2>
 
-  👨‍💻 I'm currently working on <a href="https://www.boxcustodia.com/cms/" target="_blank">**Box - Custodia y Gestión Digital**</a>
+  👨‍💻 I'm currently working on <a href="https://www.boxcustodia.com/cms/" target="new">**Box - Custodia y Gestión Digital**</a>
 
-  🌱 I'm currently learning **Java, Python y JS**, on <a href="http://www.frsr.utn.edu.ar/" target="_blank">**UTN San Rafael**</a>
+  🌱 I'm currently learning **Java, Python y JS**, on <a href="http://www.frsr.utn.edu.ar/" target="new">**UTN San Rafael**</a>
 
   🌎 I'm from **Argentina**
 
@@ -17,11 +17,11 @@
 <br>
 #### Contact ☕️
 <p align="left">
-<a href="https://www.linkedin.com/in/nicosegovia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.facebook.com/nico.segg/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-<a href="https://twitter.com/nicosegg" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-<a href="https://www.instagram.com/nicosegov/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href = "mailto:nico.segov@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nicosegovia/" target="new"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="new"></a>
+<a href="https://www.facebook.com/nico.segg/" target="new"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="new"></a> 
+<a href="https://twitter.com/nicosegg" target="new"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="new"></a> 
+<a href="https://www.instagram.com/nicosegov/" target="new"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="new"></a> 
+<a href = "mailto:nico.segov@gmail.com" target="new"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="new"></a>
 </p>
 <br>
 <h2>✨ I have knowledge about:</h2>
