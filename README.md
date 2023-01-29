@@ -1,7 +1,7 @@
 
 <h1 align="center">Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center">
- <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47F7D9&center=true&width=435&lines=Jr+Software+Developer;Web+App+Developer;2%2B+years+of+coding+experience;University+programing+student;Experience+as+a+Developer+Analyst;Always+learning+new+things.." alt="Typing SVG" /></a>
+ <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47F7D9&center=true&width=435&lines=Jr.+Software+Developer;Web+App+Developer;2%2B+years+of+coding+experience;University+programing+student;Experience+as+a+Developer+Analyst;Always+learning+new+things.." alt="Typing SVG" /></a>
 </p>
 
   <h2> About Me 🚀</h2>
