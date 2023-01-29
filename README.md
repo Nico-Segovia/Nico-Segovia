@@ -8,7 +8,7 @@
 
   👨‍💻 I'm currently working on <a href="https://www.boxcustodia.com/cms/" target="new">**Box - Custodia y Gestión Digital**</a>
 
-  🌱 I'm currently learning **Java, Python and JS**, on <a href="http://www.frsr.utn.edu.ar/" target="new">**UTN San Rafael**</a>
+  🌱 I'm currently studyng **University Technician in Programming**, on <a href="http://www.frsr.utn.edu.ar/" target="new">**UTN San Rafael**</a>
 
   🌎 I'm from **Argentina**
 
