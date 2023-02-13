@@ -84,4 +84,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-or
 </details> 
 <br>
 
-[![Nico's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nico-Segovia&theme=xcode&hide_border=true&bg_color=1F222E&title_color=47F7D9&point=d8bc5d&color=444c5c)](https://github.com/Nico-Segovia/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nico-Segovia&theme=xcode&bg_color=1F222E&color=444c5c&line=6f7674&point=00c7a6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- [![Nico's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nico-Segovia&theme=xcode&hide_border=true&bg_color=1F222E&title_color=47F7D9&point=d8bc5d&color=444c5c)](https://github.com/Nico-Segovia/github-readme-activity-graph) -->
