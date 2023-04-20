@@ -47,7 +47,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 <details> 
 <summary><b>Backend Development</b></summary><br/> 
 <p align="left"> 
-<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> 
+<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> <!-- <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> --> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> 
 </p>
 </details>
 
