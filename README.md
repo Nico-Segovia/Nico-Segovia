@@ -25,8 +25,7 @@
 </p>
 <br>
 <h2>✨ I have knowledge about:</h2>
-<br>
-  
+ 
 <details> 
 <summary><b>Programming languages</b></summary><br/> 
 <p align="left"> 
@@ -75,15 +74,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-or
 </p>
 </details>
 <br/>
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary><br/>
+<h2>💻 GitHub Profile Stats</h2>
     <a href="https://github.com/Nico-Segovia/github-readme-stats"><img alt="Nico's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Nico-Segovia&show_icons=true&include_all_commits=true&count_private=true&theme=xcode&hide_border=true&bg_color=1F222E&title_color=47F7D9&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/Nico-Segovia/github-readme-stats"><img alt="Nico's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-Segovia&langs_count=8&layout=compact&theme=xcode&hide_border=true&bg_color=1F222E&title_color=47F7D9&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <em><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
-</details> 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nico-Segovia&theme=xcode&bg_color=1F222E&color=444c5c&line=6f7674&point=00c7a6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- [![Nico's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nico-Segovia&theme=xcode&hide_border=true&bg_color=1F222E&title_color=47F7D9&point=d8bc5d&color=444c5c)](https://github.com/Nico-Segovia/github-readme-activity-graph) -->
