@@ -8,8 +8,6 @@
 
   👨‍💻 I'm currently working on <a href="https://boxcustodia.com/" target="new">**Box - Custodia y Gestión Digital**</a>
 
-  🌱 I'm currently studyng **University Technician in Programming**, on <a href="http://www.frsr.utn.edu.ar/" target="new">**UTN San Rafael**</a>
-
   🌎 I'm from **Argentina**
 
   👯 I'm looking forward to collaborate on **.NET Web Projects**
