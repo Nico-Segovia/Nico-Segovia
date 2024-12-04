@@ -8,7 +8,7 @@
 </br>
 <h2>🚀 About Me</h2>
 
-👨‍💻 I’m currently working on <a href="https://boxcustodia.com/" target="new"><strong>Box - Custodia y Gestión Digital</strong></a>, where I focus on creating solutions that truly make an impact in digital asset management.
+👨‍💻 I’m currently working on <a href="https://boxcustodia.com/" target="new"><b>BOX</b></a>, where I focus on creating solutions that truly make an impact in digital asset management.
 
 🌎 Originally from **Argentina**, I enjoy connecting with people worldwide and embracing diverse cultures and experiences.
 
