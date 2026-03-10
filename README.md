@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicosegovia/" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nico.segov@gmail.com"><img src="https://img.shields.io/badge/CONTACT_ME-66FCF1?style=for-the-badge&logo=maildotru&logoColor=000" /></a>
+  <a href="mailto:nico.segov@gmail.com"><img src="https://img.shields.io/badge/CONTACT_ME-66FCF1?style=for-the-badge&logo=maildotru&logoColor=000" alt="Email" /></a>
 </p>
 
 ---
