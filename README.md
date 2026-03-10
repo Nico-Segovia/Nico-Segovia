@@ -41,7 +41,7 @@ Software Developer specialized in **high-performance ecosystems** and **technica
 ### // SYSTEM_LOGS
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Córdoba,_AR-white?style=flat-square&logo=mapstack&logoColor=000" />
-  <img src="https://img.shields.io/badge/Status-Available_for_Strategy-66FCF1?style=flat-square&logo=visual-studio-code&logoColor=000" />
+  <img src="https://img.shields.io/badge/Status-Available-66FCF1?style=flat-square&logo=visual-studio-code&logoColor=000" />
 </p>
 
 </div>
